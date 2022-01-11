@@ -3015,7 +3015,7 @@
                 "7": "High Alarm"
             },
             "multiplier": "0.01",
-            "name": "Gearbox Oil Pressure",
+            "name": "Gearbox Or Gallery Oil Pressure",
             "remarks": null,
             "type": "UINT",
             "units": "psi"
